@@ -1,1 +1,1 @@
-web: gunicorn projectname.wsgi
+web: gunicorn video_site.wsgi
